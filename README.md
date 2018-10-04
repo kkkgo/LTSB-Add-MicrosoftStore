@@ -10,6 +10,8 @@ If the store still will not function, reboot. If still not working, open the com
 Select Run  
 Type in: WSReset.exe  
 This will clear the cache if needed.  
+## Windows Server 2016 Problem  
+>This allowed me to update the other apps in the package (Xbox, etc..), but not allowed me to install new apps onto my computer that was already in my library.However, it did allow me to install apps using the "Business Store", which is no fun task. You have to shop on their website (not through the store app), then add the app via their website to your "private store", sign in the Windows Store App using your "Business Store Account", and finally those listed under your "private store", you could download and install.
   
 # 为Windows 10 Enterprise LTSB增加应用商店  
 适用于Windows 10 Enterprise 2015 / 2016 LTSB 或 Windows Enterprise 2015 / 2016 LTSB N  
@@ -22,5 +24,5 @@ This will clear the cache if needed.
 Win+R打开运行，输入WSReset.exe回车。    
 该命令会清空并重置Windows Store商店的所有缓存。    
   
-该脚本由abbodi1406贡献：    
+该脚本由GOD666贡献：    
 https://forums.mydigitallife.net/threads/add-store-to-windows-10-enterprise-ltsc-ltsb.70741/page-22#post-1419464
