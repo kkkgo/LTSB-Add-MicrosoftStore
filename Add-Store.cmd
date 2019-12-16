@@ -106,17 +106,6 @@ echo Press any key to Exit
 pause >nul
 exit
 
-:version
-echo.
-echo ============================================================
-echo Error: This pack is for Windows 10 version 1607 and later
-echo ============================================================
-echo.
-echo.
-echo Press any key to Exit
-pause >nul
-exit
-
 :nofiles
 echo.
 echo ============================================================
