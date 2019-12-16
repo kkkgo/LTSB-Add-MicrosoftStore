@@ -1,4 +1,4 @@
-I want to make absolutely clear that this project was created by kkkgo.  I have simple made some very minor changes for compatability with Windows Server 2016.
+I want to make absolutely clear that this project was created by kkkgo.  I have simply made some very minor changes for compatability with Windows Server 2016.
 
 # Add Store to Windows 10 Enterprise LTSB  
 For Windows 10 Enterprise 2015 / 2016 LTSB or Windows Enterprise 2015 / 2016 LTSB N  
