@@ -1,3 +1,5 @@
+I want to make absolutely clear that this project was created by kkkgo.  I have simply made some very minor changes for compatability with the version of Windows Server 2016 used by Paperspace's Core machines
+
 # Add Store to Windows 10 Enterprise LTSB  
 For Windows 10 Enterprise 2015 / 2016 LTSB or Windows Enterprise 2015 / 2016 LTSB N  
 [Download](https://github.com/lixuy/LTSB-Add-MicrosoftStore/archive/2016.zip)  
